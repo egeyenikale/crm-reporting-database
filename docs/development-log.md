@@ -36,3 +36,7 @@ ci: add build and test workflow
 
 feat: add validation rules for revenue view
 
+## 2026-06-26 - Stage 10
+
+feat: add reporting view for activity view
+
